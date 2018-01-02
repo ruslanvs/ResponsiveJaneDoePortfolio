@@ -1,1 +1,1 @@
-This is my educational work - an HTML/CSS assignment at Coding Dojo.
+Responsive web educational assignment at Coding Dojo
